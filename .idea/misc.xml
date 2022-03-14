@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/guyfa/Desktop/Where Am I/WhereAmIver2/app/src/main/res/layout/activity_keyword_info.xml" value="0.1" />
+        <entry key="..\:/Users/guyfa/Desktop/Where Am I/WhereAmIver2/app/src/main/res/layout/activity_keyword_viewer.xml" value="0.22" />
+        <entry key="..\:/Users/guyfa/Desktop/Where Am I/WhereAmIver2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/guyfa/Desktop/Where Am I/WhereAmIver2/app/src/main/res/layout/dialog_confirm_delition.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/guyfa/Desktop/Where Am I/WhereAmIver2/app/src/main/res/layout/dialog_custom_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/guyfa/Desktop/Where Am I/WhereAmIver2/app/src/main/res/layout/keyword_list_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/guyfa/Desktop/Where Am I/WhereAmIver2/app/src/main/res/layout/round_button.xml" value="0.1796875" />
+        <entry key="..\:/Users/guyfa/Desktop/Where Am I/WhereAmIver2/app/src/main/res/layout/website_list_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

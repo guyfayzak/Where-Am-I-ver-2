@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="10dp"
+    android:layoutDirection="ltr"
+    android:layout_marginBottom="10dp">
+
+    <TextView
+        android:id="@+id/wli_text"
+        android:background="@color/white"
+        android:textColor="@color/Black_coffee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:textAlignment="center">
+    </TextView>
+
+
+</LinearLayout>
